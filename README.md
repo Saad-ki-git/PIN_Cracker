@@ -1,4 +1,4 @@
-**Password Cracking Script******
+**Password Cracking Script**
 
 
 This Python script demonstrates a method for cracking a password using a `binary search algorithm`. It simulates the process of guessing a password by interacting.
